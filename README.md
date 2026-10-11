@@ -1,3 +1,3 @@
 # aturan-kelas
 daftar nama
-Error Gazer
+Error Gzr
